@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "nome": "Caio Gonçalvez Gomes",
+      "cpf": "15267774310",
+      "rg": "278899221",
+      "nascimento": "30/11/1992",
+      "endereco": "Rua Duque de Caxias, Trindade, São Gonçalo, RJ",
+      "cep": "24466140",
+      "id": 2,
+      "orders": []
+    },
+    {
+      "nome": "Frederico Venturi Lopez Rey",
+      "cpf": "15267774310",
+      "rg": "278899221",
+      "nascimento": "28/05/1998",
+      "endereco": "Rua Duque de Caxias, Trindade, São Gonçalo, RJ",
+      "cep": "24466140",
+      "id": 3,
+      "orders": []
+    },
+    {
+      "nome": "Daniel do Nascimento Agnelo",
+      "cpf": "16269989227",
+      "rg": "296633876",
+      "nascimento": "16/06/1997",
+      "endereco": "Rua Tamaraty, 546, Indianópolis, RJ",
+      "cep": "2498874",
+      "id": 4,
+      "orders": []
+    }
+  ],
+  "products": [
+    {
+      "nomeProduto": "Cesta Pequena",
+      "valorProduto": "598.9",
+      "descricaoProduto": "3kg de Feijão, 5kg de Arroz, 1kg de Farofa, 3L de óleo de soja, 2kg de Açucar",
+      "quantidadeProduto": "36",
+      "id": 1
+    }
+  ]
+}
